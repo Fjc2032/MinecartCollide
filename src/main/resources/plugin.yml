@@ -1,0 +1,14 @@
+name: MinecartCollide
+version: '1.0'
+main: dev.Fjc.minecartCollide.MinecartCollide
+api-version: '1.20'
+authors: [ Fjc ]
+description: Damages entities that get hit by a minecart.
+
+commands:
+  minecartcollidereload:
+    description: Reloads the config.
+    permission: fjc.minecartcollide.reload
+    permission-message: No perms?? Laughable!
+
+
